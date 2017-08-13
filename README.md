@@ -32,7 +32,7 @@ This command will launch default web browser and open the ipynb file. If you are
 
 ## Authors
 
-* *USC *Collaboratory for Advanced Computing and Simulations** - *Initial work* - [CACS](http://cacs.usc.edu)
+Collaboratory for Advanced Computing and Simulations - [CACS website](http://cacs.usc.edu)
 
 ## License
 
