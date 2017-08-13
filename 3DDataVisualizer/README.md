@@ -2,6 +2,10 @@
 
 A python script to quickly view 3-dimensional scalar field data on IPython notebook. 
 
+<p align="center">
+  <img src="https://github.com/USCCACS/Utilities/blob/master/3DDataVisualizer/void.png/">
+</p>
+
 ## How to use 
 
 If you have a bit of experience in using python and matplotlib, the comment in the ipynb file would be enough and for you to figure out everything but it would be helpful to list up what the code expects from a user. 
