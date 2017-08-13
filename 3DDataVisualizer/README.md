@@ -1,10 +1,10 @@
-# 3D Voxel Data Visuzlier 
+# 3D Voxel Data Visualizer
 
 A python script to quickly view 3-dimensional scalar field data on IPython notebook. 
 
 ## How to use 
 
-If you have a bit of experience in using python and matplotlib, the comment in the ipynb file would be enough and for you to figure out everything but it would be helpful to list up what the code expects from user. 
+If you have a bit of experience in using python and matplotlib, the comment in the ipynb file would be enough and for you to figure out everything but it would be helpful to list up what the code expects from a user. 
 
 1. input data. Please take a look at sample input file (density.dat) and comments for the input data format.
 ```
