@@ -1,4 +1,4 @@
-# Utilitie Tools for Molecular Dynamics Simulation Data Analysis
+# Utility Codes to Analyze Molecular Simulation Dataset
 
 This repository is a collection of utility tools to analyze molecular dynamics simulation dataset. 
 
